@@ -2,11 +2,5 @@
     "name": "Test Token",
     "symbol": "TT",
     "description": "Testing token",
-    "image": "https://static.vecteezy.com/system/resources/thumbnails/025/019/602/small_2x/camping-hiking-nature-mountain-river-graphic-illustration-vector-art-t-shirt-design-generative-ai-png.png",
-    "attributes": [
-        {
-            "trait_type": "Item",
-            "value": "Developer Portal"
-        }
-    ]
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/025/019/602/small_2x/camping-hiking-nature-mountain-river-graphic-illustration-vector-art-t-shirt-design-generative-ai-png.png"
 }
